@@ -1,0 +1,20 @@
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.exe.config
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.exe
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.pdb
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.csprojResolveAssemblyReference.cache
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Form1.resources
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Properties.Resources.resources
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Resource1.resources
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.csproj.GenerateResource.Cache
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.exe
+F:\sem-8\C#\C# programs\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.pdb
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.exe.config
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.exe
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.pdb
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.exe
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\bin\Debug\AssaignmentCSharp.pdb
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Form1.resources
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Properties.Resources.resources
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.Resource1.resources
+C:\Users\HP\Desktop\AssaignmentCSharp\AssaignmentCSharp\obj\Debug\AssaignmentCSharp.csproj.GenerateResource.Cache
